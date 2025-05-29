@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Install/Enable Internet information Services (IIS) With CGI
 - Item 2
 - Item 3
 - Item 4
@@ -31,10 +31,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pgBLK3B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this first step, we are installing Internet Information Services with CGI. To do so, we will navigate to the control panel in the start menu and click "Programs and Features". From there, we will click "Turn Windows features on or off" on the left side of the window and find IIS in the next window. To add CGI, we will expand "Application Development Features" and click "CGI" then click "OK" to install.
 </p>
 <br />
 
