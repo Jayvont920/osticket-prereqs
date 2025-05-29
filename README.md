@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/pgBLK3B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this first step, we are installing Internet Information Services with CGI. To do so, we will navigate to the control panel in the start menu and click "Programs and Features". From there, we will click "Turn Windows features on or off" on the left side of the window and find IIS in the next window. To add CGI, we will expand "Application Development Features" and click "CGI" then click "OK" to install.
+In this first step, we are installing Internet Information Services with CGI (CGI is a dependency that osTicket needs for part of the web server) . To do so, we will navigate to the control panel in the start menu and click "Programs and Features". From there, we will click "Turn Windows features on or off" on the left side of the window and find IIS in the next window. To add CGI, we will expand "world Wide Web Services" then "Application Development Features" and click "CGI" then click "OK" to install.
 </p>
 <br />
 
