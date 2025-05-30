@@ -23,9 +23,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Install/Enable Internet information Services (IIS) With CGI
-- Install Web Platform Installer
-- Install mySQL and set username and password
+- Download and unzip PHP files 
 - Install C++ redistributable 
+- Install MySQL and set username and password 
 - Configure permissions and install osTicket
 
 <h2>Installation Steps</h2>
@@ -39,18 +39,18 @@ In this first step, we are installing Internet Information Services with CGI (CG
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UuFOkzP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, we will to download te PHP files, which are the files that osTicket needs to create tickets, manage users, and display the help desk interface in a web browser. Once we download the zip file from the PHP website, create a folder on the C:\ drive named "PHP" and extract the zip file to this location. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/suOmacW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we want to download the latest C++ Redistributable. This is necessary due to the files within the PHP folder relying on the C++ runtime libraries in order to properly load.
 </p>
 <br />
 
