@@ -42,7 +42,7 @@ In this first step, we are installing Internet Information Services with CGI (CG
 <img src="https://i.imgur.com/UuFOkzP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now, we will to download te PHP files, which are the files that osTicket needs to create tickets, manage users, and display the help desk interface in a web browser. Once we download the zip file from the PHP website, create a folder on the C:\ drive named "PHP" and extract the zip file to this location. 
+Now, we will to download the necessary PHP files, which are the files that osTicket needs to create tickets, manage users, and display the help desk interface in a web browser. Once we download the zip file from the PHP website, create a folder on the C:\ drive named "PHP" and extract the zip file to this location. 
 </p>
 <br />
 
@@ -55,7 +55,7 @@ Next, we want to download the latest C++ Redistributable. This is necessary due 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/yU58bei.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
